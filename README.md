@@ -1,4 +1,4 @@
-# DSA_LEETCODE-for-Coding-Interviews
+# _py_coding_exercises_Udemy
 DSA + LEETCODE for Coding Interviews
 
 # Credits 
